@@ -16,8 +16,8 @@ This simple Flutter Counter App is designed to help beginners grasp core Flutter
 ### Installation 🔧
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/flutter-counter-app.git
-   cd flutter-counter-app
+   git clone https://github.com/Hifza-Khalid/counter-app.git
+   cd counter-app
    ```
 2. **Install Dependencies:**
    ```bash
